@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #A7BEFF;
+    color: darkslategrey;
+    text-align: center;
+  }
+  .menor {
+    color: blue;
+  }
+  .mayor {
+    color: green;
+  }
+  button {
+    margin: 0px 0.5rem;
+    border: none;
+    color: snow;
+    background-color: darkslategrey;
+  }
